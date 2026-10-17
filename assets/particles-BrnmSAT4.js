@@ -1,4 +1,4 @@
-import{i as e,n as t,r as n,t as r}from"./index-Lh0i70vM.js";var i=e(n(),1),a={circle:0,square:1,ring:2,sparkle:3},o={parallax:0,repel:1,attract:2},s={none:0,up:1,down:2,forward:3},c=2400,l=4,u=10,d=1/Math.tan(7.5*Math.PI/180),f=.1,p=100,m=1.8,h=1.5,g=520,ee=46,_=`#version 300 es
+import{i as e,n as t,r as n,t as r}from"./index-D92BfCQ6.js";var i=e(n(),1),a={circle:0,square:1,ring:2,sparkle:3},o={parallax:0,repel:1,attract:2},s={none:0,up:1,down:2,forward:3},c=2400,l=4,u=10,d=1/Math.tan(7.5*Math.PI/180),f=.1,p=100,m=1.8,h=1.5,g=520,ee=46,_=`#version 300 es
 precision highp float;
 layout(location = 0) in vec2 aCorner;
 layout(location = 1) in vec3 aPosition;
